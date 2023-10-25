@@ -16,6 +16,4 @@ public class Drink {
         this.ingredient2 = ingredient2;
         this.ingredient3 = ingredient3;
     }
-
-
 }
